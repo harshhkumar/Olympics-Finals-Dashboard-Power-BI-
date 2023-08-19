@@ -1,0 +1,10 @@
+1. Distribution of Medals by Country (Top 10)
+2. Distribution of Medals by Sports (Top 10)
+3. Distribution of Medals by Gender. 
+4. Distribution of Medals by Players(Top 10) 
+5. Count of Players by Year and Gender.
+6. Count of medals by season and Gender.
+7. Count of Gender.
+8. Count of Season.
+9. Count of Sports.
+10. Count of Country participated.
